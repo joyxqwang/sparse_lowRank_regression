@@ -2,7 +2,10 @@
 
 Code for the paper:
 
-    Wang, Xiaoqian, Jingwen Yan, Xiaohui Yao, Sungeun Kim, Kwangsik Nho, Shannon L. Risacher, Andrew J. Saykin, Li Shen, and Heng Huang. "Longitudinal Genotype-Phenotype Association Study via Temporal Structure Auto-learning Predictive Model." In International Conference on Research in Computational Molecular Biology, pp. 287-302. Springer, Cham, 2017.
+    Wang, Xiaoqian, Jingwen Yan, Xiaohui Yao, Sungeun Kim, Kwangsik Nho, Shannon L. Risacher, 
+    Andrew J. Saykin, Li Shen, and Heng Huang. "Longitudinal Genotype-Phenotype Association Study via 
+    Temporal Structure Auto-learning Predictive Model." In International Conference on Research in 
+    Computational Molecular Biology, pp. 287-302. Springer, Cham, 2017.
      
 This function optimizes the following problem:
 
